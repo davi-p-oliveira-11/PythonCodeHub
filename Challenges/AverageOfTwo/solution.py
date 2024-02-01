@@ -7,3 +7,4 @@ def average_of_two():
     print(f'The average between {grade_1} and {grade_2} is equal to {average}')
 
 average_of_two()
+input("Press Enter to Exit ... ")
